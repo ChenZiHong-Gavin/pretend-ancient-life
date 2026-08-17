@@ -12,3 +12,9 @@ Desktop.ini
 __pycache__/
 *.pyc
 node_modules/
+
+# 示例图片仅保留在本地，仓库提交 prompt 与来源记录
+examples/**/*.jpg
+examples/**/*.jpeg
+examples/**/*.png
+examples/**/*.webp
