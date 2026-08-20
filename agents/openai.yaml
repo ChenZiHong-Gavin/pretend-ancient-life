@@ -1,4 +1,4 @@
 interface:
   display_name: "假装活在古代"
-  short_description: "把现代照片转换为汉唐宋元明清场景并保留构图与人物关系"
-  default_prompt: "使用 $pretend-ancient-life，把这张现代照片转换成我指定朝代的历史场景。"
+  short_description: "按历史物质文化证据与同时代艺术作品语法转换现代照片"
+  default_prompt: "使用 $pretend-ancient-life，把这张现代照片转换成指定地点与时期的历史场景，并匹配适合该场景的同时代艺术媒介。"
